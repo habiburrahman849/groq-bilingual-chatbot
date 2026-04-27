@@ -150,8 +150,6 @@ The chatbot reads this file as **system context** on every request — no retrai
 
 ---
 
-## 🚀 Call to Action
-
 <div align="center">
 
 ### 💼 Want this chatbot for your business?
